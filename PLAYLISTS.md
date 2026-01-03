@@ -1,6 +1,6 @@
 ## Playlists
 
-There are several versions of playlists that differ in the way they are grouped. As of January 30th, 2024, we have stopped distributing NSFW channels. For more information, please look at [this issue](https://github.com/TechnologySR/iptv/issues/15723).
+There are several versions of playlists that are different in the way they are grouped. 
 
 ### Grouped by category
 
@@ -1365,3 +1365,4 @@ Also, any of our internal playlists are available in raw form (without any filte
 ```
 https://TechnologySR.github.io/iptv/raw/<FILENAME>.m3u
 ```
+
