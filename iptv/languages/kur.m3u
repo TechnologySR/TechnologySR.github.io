@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Kurdish",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kurdish",Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kurdish",Afarin TV (720p) [Not 24/7]
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AryenTV.se@SD" tvg-logo="https://i.postimg.cc/RZmXKfMX/aryentv.png" group-title="Kurdish",Aryen TV (1080p) [Not 24/7]
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AtrakTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/292px-Bojnourd_ATRAK_TV.svg.png" group-title="Kurdish",Atrak
+https://ncdn.telewebion.com/atrak/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="Kurdish",Avar TV (1080p)
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png" group-title="Kurdish",Azerbaijan Gharbi
+https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="Kurdish",Channel 8 Kurdish (720p)
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="CiraTV.de@SD" tvg-logo="https://i.postimg.cc/T1fHGHkM/ciratv.png" group-title="Kurdish",Cira TV
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="Kurdish",EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-id="FarmodaTV.iq@HD" tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="Kurdish",FarmodaTV (1080p)
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="JinTV.nl@SD" tvg-logo="https://i.postimg.cc/xdkDqCKf/jintv.png" group-title="Kurdish",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="KomalaTV.se@SD" tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Kurdish",Komala TV (1080p)
+https://live.tvkomala.com/live/komala/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="Kurdish",Kurdistan 24 (720p)
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.postimg.cc/MTmv3dXr/kurdistantv.png" group-title="Kurdish",Kurdistan TV (720p) [Not 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdMaxMusic.iq@SD" tvg-logo="https://i.imgur.com/otnIdEu.png" group-title="Kurdish",KurdMax Music (720p)
+https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdMaxShow.iq@SD" tvg-logo="https://i.imgur.com/XTmyGmL.png" group-title="Kurdish",KurdMax Show (720p)
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.postimg.cc/cC16pwn1/kurdsat.png" group-title="Kurdish",Kurdsat (1080p)
+https://iko-live.akamaized.net/KurdsatTV/master.m3u8
+#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.postimg.cc/Kj94xjPP/kurdsatnews.png" group-title="Kurdish",Kurdsat News (1080p)
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.postimg.cc/05d9mzJZ/medmuzik.png" group-title="Kurdish",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-id="Mixkurdy.iq@HD" tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="Kurdish",Mixkurdy (1080p)
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="Kurdish",NRT TV (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="NUBARPlusPlus.iq@SD" tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg" group-title="Kurdish",NUBAR Plus TV (720p)
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+#EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.postimg.cc/DZLrc9VV/payamtv.png" group-title="Kurdish",Payam TV (720p) [Not 24/7]
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-id="RojavaTV.sy@SD" tvg-logo="https://i.imgur.com/42noysO.png" group-title="Kurdish",Rojava TV (1080p)
+https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
+#EXTINF:-1 tvg-id="RonahiTV.sy@SD" tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="Kurdish",Ronahi TV (1080p)
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="Kurdish",Rudaw TV (1080p)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SterkTV.be@SD" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="Kurdish",Sterk TV
+https://trn09.bozztv.com/gin-sterk/index.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Kurdish",TRT Kurdî (720p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="WaarTV.iq@SD" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="Kurdish",Waar TV (1080p)
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Kurdish",Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZoomNews.us@SD" tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" http-referrer="https://zoomnews.info/" group-title="Kurdish",Zoom TV Kurdish (720p)
+https://live.zoomnews.info/live/Zoom_playlist.m3u8
