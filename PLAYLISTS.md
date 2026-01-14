@@ -305,9 +305,9 @@ https://TechnologySR.github.io/iptv/index.country.m3u
 Same thing, but split up into separate files:
 
 <!-- prettier-ignore -->
-🇦🇫 Afghanistan <code>https://TechnologySR.github.io/iptv/countries/af.m3u</code>
-🇦🇱 Albania <code>https://TechnologySR.github.io/iptv/countries/al.m3u</code>
-🇩🇿 Algeria <code>https://TechnologySR.github.io/iptv/countries/dz.m3u</code>
+🇦🇫 Afghanistan<code>https://TechnologySR.github.io/iptv/countries/af.m3u</code>
+🇦🇱 Albania<code>https://TechnologySR.github.io/iptv/countries/al.m3u</code>
+🇩🇿 Algeria<code>https://TechnologySR.github.io/iptv/countries/dz.m3u</code>
 🇦🇩 Andorra <code>https://TechnologySR.github.io/iptv/countries/ad.m3u</code>
 🇦🇴 Angola <code>https://TechnologySR.github.io/iptv/countries/ao.m3u</code>
 🇦🇷 Argentina <code>https://TechnologySR.github.io/iptv/countries/ar.m3u</code>
@@ -496,5 +496,6 @@ Also, any of our internal playlists are available in raw form (without any filte
 ```
 https://TechnologySR.github.io/iptv/raw/<FILENAME>.m3u
 ```
+
 
 
