@@ -305,126 +305,83 @@ https://TechnologySR.github.io/iptv/index.country.m3u
 Same thing, but split up into separate files:
 
 <!-- prettier-ignore -->
-🇦🇫 Afghanistan<code>https://TechnologySR.github.io/iptv/countries/af.m3u</code>
-🇦🇱 Albania<code>https://TechnologySR.github.io/iptv/countries/al.m3u</code>
-🇩🇿 Algeria<code>https://TechnologySR.github.io/iptv/countries/dz.m3u</code>
-🇦🇩 Andorra <code>https://TechnologySR.github.io/iptv/countries/ad.m3u</code>
-🇦🇴 Angola <code>https://TechnologySR.github.io/iptv/countries/ao.m3u</code>
-🇦🇷 Argentina <code>https://TechnologySR.github.io/iptv/countries/ar.m3u</code>
-🇦🇲 Armenia <code>https://TechnologySR.github.io/iptv/countries/am.m3u</code>
-🇦🇼 Aruba <code>https://TechnologySR.github.io/iptv/countries/aw.m3u</code>
-🇦🇺 Australia <code>https://TechnologySR.github.io/iptv/countries/au.m3u</code>
-🇦🇹 Austria <code>https://TechnologySR.github.io/iptv/countries/at.m3u</code>
-🇦🇿 Azerbaijan <code>https://TechnologySR.github.io/iptv/countries/az.m3u</code>
+- 🇦🇫 Afghanistan <code>https://TechnologySR.github.io/iptv/countries/af.m3u</code>
+- 🇦🇱 Albania <code>https://TechnologySR.github.io/iptv/countries/al.m3u</code>
+- 🇩🇿 Algeria <code>https://TechnologySR.github.io/iptv/countries/dz.m3u</code>
+- 🇦🇩 Andorra <code>https://TechnologySR.github.io/iptv/countries/ad.m3u</code>
+- 🇦🇴 Angola <code>https://TechnologySR.github.io/iptv/countries/ao.m3u</code>
+- 🇦🇷 Argentina <code>https://TechnologySR.github.io/iptv/countries/ar.m3u</code>
+- 🇦🇲 Armenia <code>https://TechnologySR.github.io/iptv/countries/am.m3u</code>
+- 🇦🇼 Aruba <code>https://TechnologySR.github.io/iptv/countries/aw.m3u</code>
+- 🇦🇺 Australia <code>https://TechnologySR.github.io/iptv/countries/au.m3u</code>
+- 🇦🇹 Austria <code>https://TechnologySR.github.io/iptv/countries/at.m3u</code>
+- 🇦🇿 Azerbaijan <code>https://TechnologySR.github.io/iptv/countries/az.m3u</code>
 
-🇧🇸 Bahamas <code>https://TechnologySR.github.io/iptv/countries/bs.m3u</code>
-🇧🇭 Bahrain <code>https://TechnologySR.github.io/iptv/countries/bh.m3u</code>
-🇧🇩 Bangladesh <code>https://TechnologySR.github.io/iptv/countries/bd.m3u</code>
-🇧🇧 Barbados <code>https://TechnologySR.github.io/iptv/countries/bb.m3u</code>
-🇧🇾 Belarus <code>https://TechnologySR.github.io/iptv/countries/by.m3u</code>
-🇧🇪 Belgium <code>https://TechnologySR.github.io/iptv/countries/be.m3u</code>
-🇧🇯 Benin <code>https://TechnologySR.github.io/iptv/countries/bj.m3u</code>
-🇧🇲 Bermuda <code>https://TechnologySR.github.io/iptv/countries/bm.m3u</code>
-🇧🇹 Bhutan <code>https://TechnologySR.github.io/iptv/countries/bt.m3u</code>
-🇧🇴 Bolivia <code>https://TechnologySR.github.io/iptv/countries/bo.m3u</code>
-🇧🇦 Bosnia and Herzegovina <code>https://TechnologySR.github.io/iptv/countries/ba.m3u</code>
-🇧🇷 Brazil <code>https://TechnologySR.github.io/iptv/countries/br.m3u</code>
-🇻🇬 British Virgin Islands <code>https://TechnologySR.github.io/iptv/countries/vg.m3u</code>
-🇧🇳 Brunei <code>https://TechnologySR.github.io/iptv/countries/bn.m3u</code>
-🇧🇬 Bulgaria <code>https://TechnologySR.github.io/iptv/countries/bg.m3u</code>
-🇧🇫 Burkina Faso <code>https://TechnologySR.github.io/iptv/countries/bf.m3u</code>
+- 🇧🇸 Bahamas <code>https://TechnologySR.github.io/iptv/countries/bs.m3u</code>
+- 🇧🇭 Bahrain <code>https://TechnologySR.github.io/iptv/countries/bh.m3u</code>
+- 🇧🇩 Bangladesh <code>https://TechnologySR.github.io/iptv/countries/bd.m3u</code>
+- 🇧🇧 Barbados <code>https://TechnologySR.github.io/iptv/countries/bb.m3u</code>
+- 🇧🇾 Belarus <code>https://TechnologySR.github.io/iptv/countries/by.m3u</code>
+- 🇧🇪 Belgium <code>https://TechnologySR.github.io/iptv/countries/be.m3u</code>
+- 🇧🇯 Benin <code>https://TechnologySR.github.io/iptv/countries/bj.m3u</code>
+- 🇧🇲 Bermuda <code>https://TechnologySR.github.io/iptv/countries/bm.m3u</code>
+- 🇧🇹 Bhutan <code>https://TechnologySR.github.io/iptv/countries/bt.m3u</code>
+- 🇧🇴 Bolivia <code>https://TechnologySR.github.io/iptv/countries/bo.m3u</code>
+- 🇧🇦 Bosnia and Herzegovina <code>https://TechnologySR.github.io/iptv/countries/ba.m3u</code>
+- 🇧🇷 Brazil <code>https://TechnologySR.github.io/iptv/countries/br.m3u</code>
+- 🇻🇬 British Virgin Islands <code>https://TechnologySR.github.io/iptv/countries/vg.m3u</code>
+- 🇧🇳 Brunei <code>https://TechnologySR.github.io/iptv/countries/bn.m3u</code>
+- 🇧🇬 Bulgaria <code>https://TechnologySR.github.io/iptv/countries/bg.m3u</code>
+- 🇧🇫 Burkina Faso <code>https://TechnologySR.github.io/iptv/countries/bf.m3u</code>
 
-🇰🇭 Cambodia <code>https://TechnologySR.github.io/iptv/countries/kh.m3u</code>
-🇨🇲 Cameroon <code>https://TechnologySR.github.io/iptv/countries/cm.m3u</code>
-🇨🇦 Canada <code>https://TechnologySR.github.io/iptv/countries/ca.m3u</code>
-🇨🇻 Cape Verde <code>https://TechnologySR.github.io/iptv/countries/cv.m3u</code>
-🇹🇩 Chad <code>https://TechnologySR.github.io/iptv/countries/td.m3u</code>
-🇨🇱 Chile <code>https://TechnologySR.github.io/iptv/countries/cl.m3u</code>
-🇨🇳 China <code>https://TechnologySR.github.io/iptv/countries/cn.m3u</code>
-🇨🇴 Colombia <code>https://TechnologySR.github.io/iptv/countries/co.m3u</code>
-🇨🇷 Costa Rica <code>https://TechnologySR.github.io/iptv/countries/cr.m3u</code>
-🇭🇷 Croatia <code>https://TechnologySR.github.io/iptv/countries/hr.m3u</code>
-🇨🇺 Cuba <code>https://TechnologySR.github.io/iptv/countries/cu.m3u</code>
-🇨🇼 Curacao <code>https://TechnologySR.github.io/iptv/countries/cw.m3u</code>
-🇨🇾 Cyprus <code>https://TechnologySR.github.io/iptv/countries/cy.m3u</code>
-🇨🇿 Czech Republic <code>https://TechnologySR.github.io/iptv/countries/cz.m3u</code>
+- 🇰🇭 Cambodia <code>https://TechnologySR.github.io/iptv/countries/kh.m3u</code>
+- 🇨🇲 Cameroon <code>https://TechnologySR.github.io/iptv/countries/cm.m3u</code>
+- 🇨🇦 Canada <code>https://TechnologySR.github.io/iptv/countries/ca.m3u</code>
+- 🇨🇻 Cape Verde <code>https://TechnologySR.github.io/iptv/countries/cv.m3u</code>
+- 🇹🇩 Chad <code>https://TechnologySR.github.io/iptv/countries/td.m3u</code>
+- 🇨🇱 Chile <code>https://TechnologySR.github.io/iptv/countries/cl.m3u</code>
+- 🇨🇳 China <code>https://TechnologySR.github.io/iptv/countries/cn.m3u</code>
+- 🇨🇴 Colombia <code>https://TechnologySR.github.io/iptv/countries/co.m3u</code>
+- 🇨🇷 Costa Rica <code>https://TechnologySR.github.io/iptv/countries/cr.m3u</code>
+- 🇭🇷 Croatia <code>https://TechnologySR.github.io/iptv/countries/hr.m3u</code>
+- 🇨🇺 Cuba <code>https://TechnologySR.github.io/iptv/countries/cu.m3u</code>
+- 🇨🇼 Curacao <code>https://TechnologySR.github.io/iptv/countries/cw.m3u</code>
+- 🇨🇾 Cyprus <code>https://TechnologySR.github.io/iptv/countries/cy.m3u</code>
+- 🇨🇿 Czech Republic <code>https://TechnologySR.github.io/iptv/countries/cz.m3u</code>
 
-🇩🇰 Denmark <code>https://TechnologySR.github.io/iptv/countries/dk.m3u</code>
-🇩🇯 Djibouti <code>https://TechnologySR.github.io/iptv/countries/dj.m3u</code>
-🇩🇴 Dominican Republic <code>https://TechnologySR.github.io/iptv/countries/do.m3u</code>
+- 🇩🇰 Denmark <code>https://TechnologySR.github.io/iptv/countries/dk.m3u</code>
+- 🇩🇯 Djibouti <code>https://TechnologySR.github.io/iptv/countries/dj.m3u</code>
+- 🇩🇴 Dominican Republic <code>https://TechnologySR.github.io/iptv/countries/do.m3u</code>
 
-🇪🇨 Ecuador <code>https://TechnologySR.github.io/iptv/countries/ec.m3u</code>
-🇪🇬 Egypt <code>https://TechnologySR.github.io/iptv/countries/eg.m3u</code>
-🇸🇻 El Salvador <code>https://TechnologySR.github.io/iptv/countries/sv.m3u</code>
-🇪🇪 Estonia <code>https://TechnologySR.github.io/iptv/countries/ee.m3u</code>
-🇪🇹 Ethiopia <code>https://TechnologySR.github.io/iptv/countries/et.m3u</code>
-
-🇫🇮 Finland <code>https://TechnologySR.github.io/iptv/countries/fi.m3u</code>
-🇫🇷 France <code>https://TechnologySR.github.io/iptv/countries/fr.m3u</code>
-
-🇩🇪 Germany <code>https://TechnologySR.github.io/iptv/countries/de.m3u</code>
-🇬🇷 Greece <code>https://TechnologySR.github.io/iptv/countries/gr.m3u</code>
-
-🇭🇰 Hong Kong <code>https://TechnologySR.github.io/iptv/countries/hk.m3u</code>
-🇭🇺 Hungary <code>https://TechnologySR.github.io/iptv/countries/hu.m3u</code>
-
-🇮🇸 Iceland <code>https://TechnologySR.github.io/iptv/countries/is.m3u</code>
-🇮🇳 India <code>https://TechnologySR.github.io/iptv/countries/in.m3u</code>
-🇮🇩 Indonesia <code>https://TechnologySR.github.io/iptv/countries/id.m3u</code>
-🇮🇷 Iran <code>https://TechnologySR.github.io/iptv/countries/ir.m3u</code>
-🇮🇶 Iraq <code>https://TechnologySR.github.io/iptv/countries/iq.m3u</code>
-🇮🇪 Ireland <code>https://TechnologySR.github.io/iptv/countries/ie.m3u</code>
-🇮🇱 Israel <code>https://TechnologySR.github.io/iptv/countries/il.m3u</code>
-🇮🇹 Italy <code>https://TechnologySR.github.io/iptv/countries/it.m3u</code>
-
-🇯🇵 Japan <code>https://TechnologySR.github.io/iptv/countries/jp.m3u</code>
-
-🇰🇪 Kenya <code>https://TechnologySR.github.io/iptv/countries/ke.m3u</code>
-🇰🇷 South Korea <code>https://TechnologySR.github.io/iptv/countries/kr.m3u</code>
-🇰🇼 Kuwait <code>https://TechnologySR.github.io/iptv/countries/kw.m3u</code>
-
-🇱🇰 Sri Lanka <code>https://TechnologySR.github.io/iptv/countries/lk.m3u</code>
-
-🇲🇾 Malaysia <code>https://TechnologySR.github.io/iptv/countries/my.m3u</code>
-🇲🇽 Mexico <code>https://TechnologySR.github.io/iptv/countries/mx.m3u</code>
-
-🇳🇵 Nepal <code>https://TechnologySR.github.io/iptv/countries/np.m3u</code>
-🇳🇱 Netherlands <code>https://TechnologySR.github.io/iptv/countries/nl.m3u</code>
-🇳🇿 New Zealand <code>https://TechnologySR.github.io/iptv/countries/nz.m3u</code>
-
-🇳🇴 Norway <code>https://TechnologySR.github.io/iptv/countries/no.m3u</code>
-
-🇵🇰 Pakistan <code>https://TechnologySR.github.io/iptv/countries/pk.m3u</code>
-🇵🇭 Philippines <code>https://TechnologySR.github.io/iptv/countries/ph.m3u</code>
-🇵🇱 Poland <code>https://TechnologySR.github.io/iptv/countries/pl.m3u</code>
-🇵🇹 Portugal <code>https://TechnologySR.github.io/iptv/countries/pt.m3u</code>
-
-🇶🇦 Qatar <code>https://TechnologySR.github.io/iptv/countries/qa.m3u</code>
-
-🇷🇴 Romania <code>https://TechnologySR.github.io/iptv/countries/ro.m3u</code>
-🇷🇺 Russia <code>https://TechnologySR.github.io/iptv/countries/ru.m3u</code>
-
-🇸🇦 Saudi Arabia <code>https://TechnologySR.github.io/iptv/countries/sa.m3u</code>
-🇸🇬 Singapore <code>https://TechnologySR.github.io/iptv/countries/sg.m3u</code>
-🇿🇦 South Africa <code>https://TechnologySR.github.io/iptv/countries/za.m3u</code>
-🇪🇸 Spain <code>https://TechnologySR.github.io/iptv/countries/es.m3u</code>
-🇸🇪 Sweden <code>https://TechnologySR.github.io/iptv/countries/se.m3u</code>
-🇨🇭 Switzerland <code>https://TechnologySR.github.io/iptv/countries/ch.m3u</code>
-
-🇹🇭 Thailand <code>https://TechnologySR.github.io/iptv/countries/th.m3u</code>
-🇹🇷 Turkiye <code>https://TechnologySR.github.io/iptv/countries/tr.m3u</code>
-
-🇺🇦 Ukraine <code>https://TechnologySR.github.io/iptv/countries/ua.m3u</code>
-🇦🇪 United Arab Emirates <code>https://TechnologySR.github.io/iptv/countries/ae.m3u</code>
-🇬🇧 United Kingdom <code>https://TechnologySR.github.io/iptv/countries/uk.m3u</code>
-🇺🇸 United States <code>https://TechnologySR.github.io/iptv/countries/us.m3u</code>
-
-🇻🇳 Vietnam <code>https://TechnologySR.github.io/iptv/countries/vn.m3u</code>
-
-🇾🇪 Yemen <code>https://TechnologySR.github.io/iptv/countries/ye.m3u</code>
-🇿🇼 Zimbabwe <code>https://TechnologySR.github.io/iptv/countries/zw.m3u</code>
-
-🌐 International <code>https://TechnologySR.github.io/iptv/countries/int.m3u</code>
+- 🇪🇨 Ecuador <code>https://TechnologySR.github.io/iptv/countries/ec.m3u</code>
+- 🇪🇬 Egypt <code>https://TechnologySR.github.io/iptv/countries/eg.m3u</code>
+- 🇪🇸 Spain <code>https://TechnologySR.github.io/iptv/countries/es.m3u</code>
+- 🇫🇷 France <code>https://TechnologySR.github.io/iptv/countries/fr.m3u</code>
+- 🇩🇪 Germany <code>https://TechnologySR.github.io/iptv/countries/de.m3u</code>
+- 🇮🇳 India <code>https://TechnologySR.github.io/iptv/countries/in.m3u</code>
+- 🇮🇩 Indonesia <code>https://TechnologySR.github.io/iptv/countries/id.m3u</code>
+- 🇮🇷 Iran <code>https://TechnologySR.github.io/iptv/countries/ir.m3u</code>
+- 🇮🇹 Italy <code>https://TechnologySR.github.io/iptv/countries/it.m3u</code>
+- 🇯🇵 Japan <code>https://TechnologySR.github.io/iptv/countries/jp.m3u</code>
+- 🇲🇾 Malaysia <code>https://TechnologySR.github.io/iptv/countries/my.m3u</code>
+- 🇲🇽 Mexico <code>https://TechnologySR.github.io/iptv/countries/mx.m3u</code>
+- 🇳🇵 Nepal <code>https://TechnologySR.github.io/iptv/countries/np.m3u</code>
+- 🇳🇱 Netherlands <code>https://TechnologySR.github.io/iptv/countries/nl.m3u</code>
+- 🇳🇿 New Zealand <code>https://TechnologySR.github.io/iptv/countries/nz.m3u</code>
+- 🇵🇰 Pakistan <code>https://TechnologySR.github.io/iptv/countries/pk.m3u</code>
+- 🇷🇺 Russia <code>https://TechnologySR.github.io/iptv/countries/ru.m3u</code>
+- 🇸🇦 Saudi Arabia <code>https://TechnologySR.github.io/iptv/countries/sa.m3u</code>
+- 🇸🇬 Singapore <code>https://TechnologySR.github.io/iptv/countries/sg.m3u</code>
+- 🇿🇦 South Africa <code>https://TechnologySR.github.io/iptv/countries/za.m3u</code>
+- 🇱🇰 Sri Lanka <code>https://TechnologySR.github.io/iptv/countries/lk.m3u</code>
+- 🇸🇪 Sweden <code>https://TechnologySR.github.io/iptv/countries/se.m3u</code>
+- 🇨🇭 Switzerland <code>https://TechnologySR.github.io/iptv/countries/ch.m3u</code>
+- 🇹🇭 Thailand <code>https://TechnologySR.github.io/iptv/countries/th.m3u</code>
+- 🇹🇷 Turkiye <code>https://TechnologySR.github.io/iptv/countries/tr.m3u</code>
+- 🇬🇧 United Kingdom <code>https://TechnologySR.github.io/iptv/countries/uk.m3u</code>
+- 🇺🇸 United States <code>https://TechnologySR.github.io/iptv/countries/us.m3u</code>
+- 🇻🇳 Vietnam <code>https://TechnologySR.github.io/iptv/countries/vn.m3u</code>
+- 🌐 International <code>https://TechnologySR.github.io/iptv/countries/int.m3u</code>
 
 #### Regions
 
@@ -496,6 +453,7 @@ Also, any of our internal playlists are available in raw form (without any filte
 ```
 https://TechnologySR.github.io/iptv/raw/<FILENAME>.m3u
 ```
+
 
 
 
