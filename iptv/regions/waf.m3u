@@ -1,0 +1,359 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="ACNN.ng@SD",ACNN (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AdvocateBroadcastingNetwork.ng@SD",Advocate Broadcasting Network (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaTV3.ng@SD",Africa TV3 (720p) [Not 24/7]
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="AfroSportNigeria.ng@SD",AfroSport Nigeria
+https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+#EXTINF:-1 tvg-id="AITNational.ng@SD",AIT National (576p)
+https://webstreaming.viewmedia.tv/web_036/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AMusicChannel.ng@SD",AMusic Channel (720p)
+http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AMusicChannel.ng@SD",AMusic Channel
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ApprovalTV.ng@HD",Approval TV (720p)
+#EXTVLCOPT:http-referrer=https://live.approvaltv.com/
+https://live.approvaltv.com/approvaltv/index.m3u8
+#EXTINF:-1 tvg-id="APTIMTV.ng@SD",APTIM TV (720p)
+https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="ATN.ng@SD",ATN (480p)
+https://tv2.ifastekpanel.com:3013/live/atntvlive.m3u8
+#EXTINF:-1 tvg-id="BCSStarCrossTV.ng@SD",BCS StarCross TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BrideTV.ng@SD",Bride TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CaughtUpTV.ng@SD",Caught-Up TV (480p) [Not 24/7]
+https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channels24.ng@SD",Channels 24
+https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8
+#EXTINF:-1 tvg-id="ChannelsTV.ng@SD",Channels TV
+https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
+#EXTINF:-1 tvg-id="ChosenTVEnglish.ng@SD",Chosen TV English (360p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChosenTVEnglish.ng@SD",Chosen TV English
+https://live20.bozztv.com/dvrfl06/astv/astv-chosentv/index.m3u8
+#EXTINF:-1 tvg-id="cLoveworldTV.ng@SD",cLoveworld TV (480p)
+https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8
+#EXTINF:-1 tvg-id="CozaTV.ng@SD",Coza TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DunamisTV.ng@SD",Dunamis TV (576p) [Not 24/7]
+https://atechgroupuk.site/DTV.m3u8
+#EXTINF:-1 tvg-id="FlameTV.ng@SD",Flame TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FoursquareTV.ng@SD",Foursquare TV (360p) [Not 24/7]
+https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GalaxyTV.ng@SD",Galaxy TV (576p)
+https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
+#EXTINF:-1 tvg-id="GMTV.ng@SD",GMTV (480p)
+https://webstreaming-11.viewmedia.tv/web_160/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HoremowTV.ng@SD",HoremowTV (1080p)
+https://tvsw6-hls.secdn.net/tvsw6-chorigin/play/prod-2859eecc9b514f2bb955290066ef172d/playlist.m3u8
+#EXTINF:-1 tvg-id="ItageTV.ng@SD",Itage TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KingsviewTV.ng@SD",Kingsview TV (1080p)
+https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LiberationTV.ng@SD",Liberation TV (576p)
+https://webstreaming.viewmedia.tv/web_011/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeCenterNetwork.ng@SD",Life Center Network (576p)
+https://webstreaming-11.viewmedia.tv/web_152/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LN247.ng@SD",LN247 (1080p)
+https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LovetoonsTV.ng@SD",Lovetoons TV (720p)
+https://kali1.everestcast.com:3674/stream/play.m3u8
+#EXTINF:-1 tvg-id="LoveWorldArabic.ng@SD",LoveWorld Arabic (360p)
+https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldAsia.ng@SD",LoveWorld Asia (1080p)
+https://cdnstack.internetmultimediaonline.org/auxano/Hindilanx/index.m3u8
+#EXTINF:-1 tvg-id="LoveWorldCASA.ng@SD",LoveWorld CASA (614p)
+https://j78dp6reyq5r-hls-live.5centscdn.com/kview/5c6d78cffa59e129f040fcec2d788532.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldEuro.ng@SD",LoveWorld Euro (270p)
+https://cdnstack.internetmultimediaonline.org/auxano/Cespain/index.m3u8
+#EXTINF:-1 tvg-id="LoveWorldItalia.ng@SD",LoveWorld Italia (1080p)
+https://cdnstack.internetmultimediaonline.org/auxano/italianlanx/index.m3u8
+#EXTINF:-1 tvg-id="LoveWorldPersia.ng@SD",LoveWorld Persia (720p)
+https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveworldXP.ng@SD",LoveWorld XP (480p)
+https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:livestream2022_main_all_transcode/playlist.m3u8
+#EXTINF:-1 tvg-id="MastersTV.ng@SD",Master's TV (720p)
+https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8
+#EXTINF:-1 tvg-id="MoreGraceTV.ng@SD",More Grace TV (410p) [Not 24/7]
+https://atechgroupuk.site/ETV.m3u8
+#EXTINF:-1 tvg-id="NewFrontiersTV.ng@SD",New Frontiers TV (1080p)
+https://media2.streambrothers.com:1936/8044/8044/playlist.m3u8
+#EXTINF:-1 tvg-id="NewVisionTV.ng@SD",New Vision TV (360p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsCentral.ng@SD",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nigbati.ng@SD",Nigbati (720p) [Not 24/7]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTAInternational.ng@SD",NTA International (576p) [Not 24/7]
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="OSBCTV.ng@SD",OSBC TV (480p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8
+#EXTINF:-1 tvg-id="PhenomenalLifeTV.ng@SD",Phenomenal Life TV (1080p)
+https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8
+#EXTINF:-1 tvg-id="PlusTVAfrica.ng@SD",Plus TV Africa (720p) [Not 24/7]
+https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="QausainTV.ng@SD",Qausain TV (720p)
+https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
+#EXTINF:-1 tvg-id="QuestTV.ng@SD",Quest TV (240p) [Not 24/7]
+https://media2.streambrothers.com:19360/8028/8028.m3u8
+#EXTINF:-1 tvg-id="RaveTV.ng@SD",Rave TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SalvationTV.ng@SD",Salvation TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SilverbirdNews24.ng@SD",Silverbird News 24 (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SoundcityTV.ng@SD",Soundcity TV
+https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8
+#EXTINF:-1 tvg-id="SunnaTV.ng@SD",Sunna TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperscreenTV.ng@SD",Superscreen TV (412p)
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-id="SynagogueTV.ng@SD",Synagogue TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVC.ng@SD",TVC (1080p)
+https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng@SD",TVC News (576p)
+https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng@SD",TVC News
+http://69.64.57.208/tvcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng@SD",TVC News
+https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-dash/tvcnews.mpd
+#EXTINF:-1 tvg-id="WaffiTV.ng@SD",Waffi TV (240p)
+https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WapTV.ng@SD",Wap TV (720p) [Not 24/7]
+https://newproxy3.vidivu.tv/waptv/index.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng@SD",Wazobia Max TV Abuja (720p)
+https://wazobia.live:8333/channel/wmaxabuja.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng@SD",Wazobia Max TV Nigeria (720p)
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng@SD",Wazobia Max TV Port Harcourt (720p)
+https://wazobia.live:8333/channel/wmaxph.m3u8
+#EXTINF:-1 tvg-id="WholeWordTV.ng@SD",Whole Word TV (720p)
+https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ACTSTV.uk@SD",ACTS TV (360p)
+https://mediagh.us:19360/deliverancetv/deliverancetv.m3u8
+#EXTINF:-1 tvg-id="AdinkraTV.gh@SD",Adinkra TV (1080p)
+https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel247.gh@SD",Channel247 (1080p)
+https://tv.localstreamgh.com/Channel247/index.m3u8
+#EXTINF:-1 tvg-id="FacultyTV.gh@SD",Faculty TV (720p)
+https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.gh@SD",Fish TV
+https://tv.localstreamgh.com/fishtv/index.m3u8
+#EXTINF:-1 tvg-id="",G-eye TV
+https://online.geyetv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Hope4LifeTV.us@SD",Hope4Life TV (720p)
+http://144.217.14.88/hls/hope4life.m3u8
+#EXTINF:-1 tvg-id="HopeChannelGhana.gh@SD",Hope Channel Ghana (480p)
+https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
+#EXTINF:-1 tvg-id="MaranathaTV.gh@SD",Maranatha TV
+https://media.streambrothers.com:1936/8298/8298/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxTV.gh@SD",Max TV
+https://tv.qixapps.com/hls/006bea00-06e8-440e-babe-0a588e1138f2.m3u8
+#EXTINF:-1 tvg-id="MOGPATV.gh@SD",MOGPA TV (720p)
+https://livestream.anojed.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MOGPATV.gh@SD",MOGPA TV
+https://bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MOGPATVPlus.gh@SD",MOGPA TV Plus
+https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV.gh@SD",OTV
+https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PentTV.gh@SD",Pent TV (576p)
+https://iptv-trans.ecntv.net/live/penttv.m3u8
+#EXTINF:-1 tvg-id="ResurrectionTV.gh@SD",Resurrection TV (720p)
+https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
+#EXTINF:-1 tvg-id="TV3.gh@SD",TV3
+https://adesa.tv/live/tv3_AdesaAdb.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="2STV.sn@SD",2STV
+http://69.64.57.208/2stv/playlist.m3u8
+#EXTINF:-1 tvg-id="2STV.sn@SD",2STV
+https://stream.ecable.tv/2stv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="A2iMusic.sn@SD",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iNaija.sn@SD",A2i Naija (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iReligion.sn@SD",A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="AmaniTV.sn@SD",Amani TV (1080p) [Not 24/7]
+https://goccn.cloud/hls/amanitv/index.m3u8
+#EXTINF:-1 tvg-id="ChabibaTV.sn@SD",Chabiba TV (360p) [Not 24/7]
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+#EXTINF:-1 tvg-id="CNMTV.sn@SD",CNM TV (720p) [Not 24/7]
+https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Diaspora24.sn@SD",Diaspora 24 [Geo-blocked]
+https://vdo3.pro-fhi.net:3218/stream/play.m3u8
+#EXTINF:-1 tvg-id="IMTV.sn@SD",Islam TV Sénégal (720p)
+https://tv.imediasn.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="LougaTV.sn@SD",Louga TV (480p)
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MADERTV.sn@SD",Mader TV (720p)
+https://goccn.cloud/hls/Madertv/index.m3u8
+#EXTINF:-1 tvg-id="MourideTV.sn@SD",Mouride TV (720p)
+http://51.81.109.113:1935/Livemouridetv/mouridetv/playlist.m3u8
+#EXTINF:-1 tvg-id="OneNationTV.sn@SD",One Nation TV (720p) [Not 24/7]
+https://endour.net/hls/One_nationtv/index.m3u8
+#EXTINF:-1 tvg-id="PublicSnTV.sn@SD",PublicSn TV (720p)
+https://goccn.cloud/hls/publictv/index.m3u8
+#EXTINF:-1 tvg-id="RewmiTV.sn@SD",Rewmi TV (720p)
+https://mamoch.me/hls/rewmitv/index.m3u8
+#EXTINF:-1 tvg-id="RFM.sn@SD",RFM (720p)
+https://senrtmp.com/hls/rfm.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn@SD",RTS 1 (720p)
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn@SD",RTS 1
+https://cs2.push2stream.com/RTS1-DVR/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS2.sn@SD",RTS 2 (720p)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS2.sn@SD",RTS 2
+https://cs2.push2stream.com/RTS2-DVR/playlist.m3u8
+#EXTINF:-1 tvg-id="SenTV.sn@SD",Sen TV (360p)
+http://69.64.57.208/sentv/playlist.m3u8
+#EXTINF:-1 tvg-id="SenewebTV.sn@SD",Seneweb TV [Geo-blocked]
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-id="SenJeunesTV.sn@SD",SenJeunes TV (480p) [Not 24/7]
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SunuLabelTV.sn@SD",Sunu Label TV (480p) [Not 24/7]
+https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMusikSenegal.sn@SD",TeleMusik Senegal (720p)
+https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
+#EXTINF:-1 tvg-id="TempoAfricTV.us@SD",Tempo Afric TV (720p)
+https://streamspace.live/hls/tempoafrictv/livestream.m3u8
+#EXTINF:-1 tvg-id="TFM.sn@SD",TFM (720p)
+http://69.64.57.208/tfm/playlist.m3u8
+#EXTINF:-1 tvg-id="TFM.sn@SD",TFM (720p)
+http://trn03.bozztv.com/gin-tfmtv/index.m3u8
+#EXTINF:-1 tvg-id="TFM.sn@SD",TFM
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/tfm.m3u8
+#EXTINF:-1 tvg-id="WalfTV.sn@SD",Walf TV (360p)
+http://69.64.57.208/walftv/playlist.m3u8
+#EXTINF:-1 tvg-id="YakaarTV.sn@SD",Yakaar TV (1080p)
+https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="YegleTV.sn@SD",Yeglé TV (1080p)
+https://endour.net/hls/Yegle-tv/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="A12TV.ci@SD",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+#EXTINF:-1 tvg-id="APlusIvoire.ci@SD",A+ Ivoire (720p)
+http://69.64.57.208/atv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci@SD",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
+#EXTINF:-1 tvg-id="AfrocultureTV.ci@SD",Afroculture TV
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:-1 tvg-id="BenieTV.ci@SD",Benie TV (720p)
+https://voozmedia.fun/benietv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Business24Africa.ci@SD",Business 24 Africa (480p)
+https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="ChampionTV.ci@SD",Champion TV
+https://stream.berosat.live:19360/champion-tv/720p.m3u8
+#EXTINF:-1 tvg-id="DivinAmourTV.ci@SD",Divin Amour TV (720p)
+https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="DNTV.ci@SD",DNTV
+https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
+#EXTINF:-1 tvg-id="ExploitsTV.ci@SD",Exploits TV
+https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8
+#EXTINF:-1 tvg-id="GuideLoveTV.ci@SD",Guide Love TV (720p)
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci@SD",Ivoire Channel (720p)
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ci@SD",Life TV
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="LMTVFrench.ci@SD",LMTV French (720p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci@SD",Miracle TV+ (720p)
+https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="NCI.ci@SD",NCI (1080p)
+https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="NCI.ci@SD",NCI
+https://cs2.push2stream.com/NCI-DVR/playlist.m3u8
+#EXTINF:-1 tvg-id="NovelaChannel.ci@SD",Novela Channel (720p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ci@SD",NTV Afrique (1080p) [Not 24/7]
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="PassionNovelas.ci@SD",Passion Novelas
+https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
+#EXTINF:-1 tvg-id="RefletTV.ci@SD",REFLET TV (1080p)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci@SD",RTI 1 (1080p) [Not 24/7]
+http://69.64.57.208:8080/rti1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci@SD",RTI 1
+https://stream.ecable.tv/rti1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci@SD",RTI 1
+https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI2.ci@SD",RTI 2 (1080p) [Not 24/7]
+http://69.64.57.208:8080/rti2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTILa3.ci@SD",RTI La 3 (1080p) [Not 24/7]
+http://69.64.57.208/la3/index.m3u8
+#EXTINF:-1 tvg-id="RTVC.ci@SD",RTVC (720p)
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
+#EXTINF:-1 tvg-id="TVAlBayane.ci@SD",TV Al Bayane (360p)
+http://69.64.57.208/albayanetv/index.m3u8
+#EXTINF:-1 tvg-id="TVLaCapitale.ci@SD",TV La Capitale
+https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci@SD",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
+#EXTINF:-1 tvg-id="EcclesiaTV.ci@SD",Ecclesia TV
+https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI2.ci@SD",RTI 2
+https://video1.getstreamhosting.com:1936/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="SerieMax.ci@SD",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#EXTINF:-1 tvg-id="NCI.ci@SD",NCI
+https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="AfricableTV.ml@SD",Africable TV (360p)
+http://69.64.57.208/africable/playlist.m3u8
+#EXTINF:-1 tvg-id="CheriflaTV.ml@SD",Cherifla TV (360p)
+http://69.64.57.208/cherifla/playlist.m3u8
+#EXTINF:-1 tvg-id="D3TV.ml@SD",D3 TV
+https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="NietaTV.ml@SD",Nieta TV
+http://69.64.57.208/nieta/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTM1.ml@SD",ORTM 1 (540p) [Not 24/7]
+http://69.64.57.208/ortm/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTM1.ml@SD",ORTM 1
+https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTM2.ml@SD",ORTM 2
+http://69.64.57.208/tm2/playlist.m3u8
+#EXTINF:-1 tvg-id="TM1TV.ml@SD",TM1 (360p) [Not 24/7]
+http://69.64.57.208/tm1/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="DouniaTV.ne@SD",Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+#EXTINF:-1 tvg-id="SaraouniaTV.ne@SD",Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+#EXTINF:-1 tvg-id="TalTV.ne@SD",Tal TV
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD",Tele Sahel
+https://cs2.push2stream.com/TELESAHELTV-DVR/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD",Tele Sahel
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD",Télé Sahel (576p)
+http://69.64.57.208/telesahel/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="BurkinaInfoTV.bf@SD",Burkina Info TV (540p)
+http://69.64.57.208/burkinainfo/index.m3u8
+#EXTINF:-1 tvg-id="Canal3.bf@SD",Canal 3
+https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+#EXTINF:-1 tvg-id="RTB.bf@SD",RTB (360p) [Not 24/7]
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 tvg-id="RTB2HautsBasins.bf@SD",RTB2 Hauts-Basins
+https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8
+#EXTINF:-1 tvg-id="RTB3.bf@SD",RTB 3
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 tvg-id="SavaneTV.bf@SD",Savane TV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+
